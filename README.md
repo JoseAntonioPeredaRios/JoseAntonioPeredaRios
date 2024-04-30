@@ -1,4 +1,6 @@
 ### ¡Bienvenido! 💻
+<img src="https://raw.githubusercontent.com/JoseAntonioPeredaRios/JoseAntonioPeredaRios/main/1691152842686.jfif" alt="banner José Pereda - desarrollador web">
+
 
 <!--
 **JoseAntonioPeredaRios/JoseAntonioPeredaRios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
