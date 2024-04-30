@@ -1,7 +1,8 @@
-### ¡Bienvenido! 💻
+# ¡Bienvenido! 💻
 <img src="https://raw.githubusercontent.com/JoseAntonioPeredaRios/JoseAntonioPeredaRios/main/1691152842686.jfif" alt="banner José Pereda - desarrollador web">
 
-###Tecnlogías utilizadas
+## Tecnlogías utilizadas en proyectos personales 
+
 
 ### Dev
 <p align="center">
