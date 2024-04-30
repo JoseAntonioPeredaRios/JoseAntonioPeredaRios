@@ -1,6 +1,8 @@
 # ¡Bienvenido! 💻
 <img src="https://raw.githubusercontent.com/JoseAntonioPeredaRios/JoseAntonioPeredaRios/main/1691152842686.jfif" alt="banner José Pereda - desarrollador web">
 
+Desde finales del 2020, he desarrollado proyectos personales orientados a resolver tareas contables. Esto me permitió conocer y aplicar diversas tecnologías.
+
 ## Tecnlogías utilizadas en proyectos personales 
 
 
