@@ -3,13 +3,6 @@
 
 ###Tecnlogías utilizadas
 
-### Cloud
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,cloudflare" />
-  </a>
-</p>
-
 ### Dev
 <p align="center">
   <a href="https://skillicons.dev">
@@ -17,19 +10,27 @@
   </a>
 </p>
 
+### Cloud
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,cloudflare" />
+  </a>
+</p>
+
+
 ### Frontend
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,react" />
   </a>
 </p>
+
 ### Backend
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,py" />
   </a>
 </p>
-
 
 ### Bases de datos
 <p align="center">
